@@ -24,5 +24,5 @@
 
 ## Kelas G
 
-- []()
+- [Yandiyan](https://github.com/yan00n/prak.apem)
 - []()
